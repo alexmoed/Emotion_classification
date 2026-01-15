@@ -124,3 +124,7 @@ Analysis of high-confidence misclassifications revealed that remaining errors (2
 | "i could truly feel anymore sitting petrified on that ice cream parlor bench..." | fear | fear ✓ |
 | "i did what i needed to do which was to feel miserable without a time limit" | sadness | sadness ✓ |
 
+
+## Full Report
+
+[View the complete project report (PDF)](https://storage.googleapis.com/anmstorage/Emotion_classification_report.pdf)
